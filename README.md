@@ -9,6 +9,9 @@ clone or download the repository\
 `npm install`\
 `npm run rollup`
 
+#### Use Storybook
+`npm run storybook`
+
 <br />
 
 #### How to use this library locally
